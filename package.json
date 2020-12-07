@@ -1,0 +1,19 @@
+{
+  "name": "awesome-food-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@mui-treasury/components": "^1.9.1",
+    "@mui-treasury/styles": "^1.13.0",
+    "axios": "^0.21.0",
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
